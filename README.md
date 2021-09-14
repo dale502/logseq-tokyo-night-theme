@@ -1,4 +1,4 @@
-# # Le-modified version Tokyo Night
+# Le-modified version Tokyo Night
 
 Ported from Obsidian, all credits for the theme and its colors go to the original author [URL](https://github.com/RuslanGagushin/Tokyo-Night-Obsidian-Theme)... My focus was to make this theme module enough that you can adjust several aspects of the theme from inside your `custom.css` without breaking your other themes.
 
@@ -15,7 +15,7 @@ The choice of colors that went into the various elements of LS actually have som
 The idea is to promote a visually appealing experience, while building an environment that's distraction free (flat style) with colors that promote capturing the user's attention and boosting mental productivity.
 
 ## Le-modified version Tokyo Night Preview
-![]()
+![](https://github.com/dale502/logseq-tokyo-night-theme/blob/main/images/preview.png?raw=true)
 
 
 # Settings
