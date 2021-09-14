@@ -16,8 +16,8 @@
 }
 
 :root {
-    --ls-main-content-max-width: 95%;
-    --ls-main-content-max-width-wide: 96%;
+    --ls-main-content-max-width: 99%;
+    --ls-main-content-max-width-wide: 99%;
 }
 
 /*a.tag {
@@ -28,6 +28,32 @@
   color: var(--cd-link-text-color); /*外链颜色*/
   text-decoration: none;
   /*border-bottom: none;*/
+}
+
+/* Some tweaks on making this theme a bit more compact on mobile.
+   Mobile cap is 640px */
+@media (max-width: 640px) {
+  html {
+    font-size: 14px;
+  }
+
+  #main-content-container {
+    padding: 0;
+  }
+
+  .cp__sidebar-main-content > div {
+    padding: 1px 1em 1em 1em !important;
+    border: none;
+  }
+
+  a.title h1.title {
+    font-size: 24px;
+    margin-bottom: 1rem;
+  }
+
+  .custom-query {
+    padding: 0 1rem;
+  }
 }
 
 /* - - */
