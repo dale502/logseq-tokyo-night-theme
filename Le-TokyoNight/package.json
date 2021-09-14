@@ -1,0 +1,17 @@
+{
+  "name": "Le-TokyoNight",
+  "author": "Le",
+  "version": "0.0.1",
+  "description": "Le-TokyoNight",
+  "logseq": {
+    "themes": [
+      {
+        "name": "Le-TokyoNight",
+        "url": "./Le-TokyoNight.css",
+        "description": "Le-TokyoNight",
+        "mode": "dark"
+      }
+    ],
+    "id": "Le-TokyoNight"
+  }
+}
