@@ -1,4 +1,4 @@
-# # Le-modified version Tokyo Night
+# Le-modified version Tokyo Night
 
 Ported from Obsidian, all credits for the theme and its colors go to the original author [URL](https://github.com/RuslanGagushin/Tokyo-Night-Obsidian-Theme)... My focus was to make this theme module enough that you can adjust several aspects of the theme from inside your `custom.css` without breaking your other themes.
 
